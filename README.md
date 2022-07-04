@@ -1,4 +1,4 @@
--- the safe way to Darkweb --
+-- Access the Dark Web Safely and Anonymously --
 
 Download Rufus (ISO to USB) 
   https://www.heise.de/download/product/rufus
