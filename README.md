@@ -8,5 +8,3 @@ Download Tails (Live Linux)
   
 Follow the Installing Guide
   https://tails.boum.org/install/clone/pc/index.de.html
-
-test
